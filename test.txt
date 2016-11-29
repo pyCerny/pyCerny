@@ -1,0 +1,17 @@
+v. o derivaci mocninne rady
+v. o globalni existenci a jednoznacnosti rovnice n-teho radu
+Cauchy-Schwarzova nerovnost
+vztah konvergence v norme ke konvergenci po slozkach
+v. o ekvivalenci norem
+v. o vztahu kompaktnosti a separability
+Cantorova veta o pruniku kompaktu
+Lindelofova pokryvaci veta
+Borelova pokryvaci veta
+Picard-Lindelofova veta
+v. o totalnim diferencialu slozeneho zobrazeni
+v. o postacujici podmince existence potencialu
+v. o reseni rovnice ve tvaru totalniho diferencialu
+v. o Lagrangeovych multiplikatorech
+tvar prvniho a druheho Gateauxova diferencialu
+v. o regularite minimizeru
+Lagrangeova nutna podminkla pro integralni funkcional
